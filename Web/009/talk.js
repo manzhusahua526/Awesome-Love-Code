@@ -1,6 +1,6 @@
 $(function() {
     $('#yes').click(function(event) {
-        modal('我就知道小宝宝一定会愿意~(^_^)', function() {
+        modal('我就知道芯芯妹妹一定会愿意~(^_^)', function() {
             $('.page_one').addClass('hide');
             $('.page_two').removeClass('hide');
             // typeWrite();
@@ -22,7 +22,7 @@ function B() {
 }
 
 function C() {
-    modal('请宝宝不要拒绝我嘛~', D);
+    modal('请芯芯不要拒绝我嘛~', D);
 }
 
 function D() {
@@ -34,7 +34,7 @@ function E() {
 }
 
 function F() {
-    modal('跟我走吧宝宝~', G);
+    modal('跟我走吧芯芯~', G);
 }
 
 function G() {
